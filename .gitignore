@@ -1,2 +1,6 @@
 # to ignore
 # Logs
+# Logs
+logs
+*.log
+npm-debug.log*
